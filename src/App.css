@@ -46,7 +46,7 @@
 h1{
   background-color: blue;
   color: yellow;
-  width: 120px;
+  width: 140px;
   margin: 0 auto;
   border: 1px solid red;
   border-radius: 20px;
@@ -58,7 +58,7 @@ h2{
   padding: 5px;
   background-color: yellow;
   color: blue;
-  width: 120px;
+  width: 140px;
   margin: 0 auto;
   border: 1px solid red;
   border-radius: 20px;
